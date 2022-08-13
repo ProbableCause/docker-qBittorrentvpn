@@ -1,6 +1,6 @@
 # qBittorrent and OpenVPN
 #
-# Version 1.8
+# Version 1.9
 
 FROM ubuntu:22.04
 MAINTAINER MarkusMcNugen
