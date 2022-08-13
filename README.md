@@ -1,5 +1,7 @@
 [preview]: https://raw.githubusercontent.com/MarkusMcNugen/docker-templates/master/qbittorrentvpn/Screenshot.png "qBittorrent Preview"
 
+This is a direct fork of https://github.com/MarkusMcNugen/docker-qBittorrentvpn, all I have done is change the Ubuntu version to 22.04 the maintainer and version in the dockerfile.
+
 # qBittorrent with WebUI and OpenVPN
 Docker container which runs the latest headless qBittorrent client with WebUI while connecting to OpenVPN with iptables killswitch to prevent IP leakage when the tunnel goes down.
 
