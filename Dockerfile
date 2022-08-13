@@ -3,7 +3,7 @@
 # Version 1.9
 
 FROM ubuntu:22.04
-MAINTAINER MarkusMcNugen
+MAINTAINER ProbableCause
 
 VOLUME /downloads
 VOLUME /config
